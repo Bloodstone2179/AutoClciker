@@ -1,14 +1,14 @@
 # AutoClciker
 
-Download the files
+1 .Download the files
 
-put the .BAT file into the Users Directory i.e C:\Users\*User Name*
+2. put the .BAT file into the Users Directory i.e C:\Users\*User Name*
 
-put the .py File onto the desktop
+3. put the .py File onto the desktop
 
-press Win + R 
+4. press Win + R 
 
-Enter "autoClicker" and press Enter
-and it will run 
+5. Enter "autoClicker" and press Enter
 
-press left CTRl to start the auto clicker
+
+6. press left CTRl to start the auto clicker
